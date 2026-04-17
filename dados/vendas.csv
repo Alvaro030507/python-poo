@@ -1,0 +1,16 @@
+data,regiao,produto,quantidade,valor_unitario
+2024-01-05,Norte,Notebook,10,3500.00
+2024-01-08,Sul,Mouse,150,45.90
+2024-01-12,Norte,Teclado,80,120.00
+2024-01-15,Sudeste,Monitor,30,1200.00
+2024-01-20,Sul,Notebook,5,3500.00
+2024-02-01,Norte,Mouse,,45.90
+2024-02-03,Sudeste,Teclado,60,120.00
+2024-02-10,Sul,Monitor,25,1200.00
+2024-02-14,Norte,Notebook,15,3500.00
+2024-02-18,,Mouse,200,45.90
+2024-03-01,Sudeste,Notebook,20,3500.00
+2024-03-05,Norte,Monitor,10,1200.00
+2024-03-10,Sul,Teclado,0,120.00
+2024-03-15,Sudeste,Mouse,100,45.90
+2024-03-20,Norte,Notebook,8,3500.00
